@@ -1,4 +1,4 @@
-# PRODIGY_DS_01 – Titanic Survival Analysis
+# PRODIGY_DS_02 – Titanic Survival Analysis
 
 ## 📌 Task Overview
 This project focuses on performing exploratory data analysis (EDA) on the Titanic dataset to understand survival patterns using data visualization.
